@@ -6,7 +6,7 @@ Cara Instalasi:
 2. Copy semua isi script yang ada di dalam file script, kemudian masukkan kodenya ke dalam extentions atau add on Tampermonkey yang ada di browser
 
 FILE SCRIPT :
-https://hendrik-svm.pages.dev/ekinerja/assets/js/svm.js
+https://raw.githubusercontent.com/hendrik-svm/mod-ekinerja/main/script
 
 VIDEO TUTORIAL :
 https://youtu.be/U41iFdX7lXY
