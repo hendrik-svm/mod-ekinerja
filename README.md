@@ -1,5 +1,4 @@
 # MOD EKINERJA KOTAWARINGIN BARAT
-Update Script : 30 Agustus 2024
 
 Cara Instalasi:
 1. Install Tampermonkey di browser
@@ -10,3 +9,5 @@ https://raw.githubusercontent.com/hendrik-svm/mod-ekinerja/main/script
 
 VIDEO TUTORIAL :
 https://youtu.be/U41iFdX7lXY
+
+Jika kurang jelas untuk install mod, ada di video tutorial di atas menit ke 20:50
