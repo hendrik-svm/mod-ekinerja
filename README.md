@@ -19,5 +19,5 @@ https://youtu.be/U41iFdX7lXY
 -------------
 ** CATATAN **
 -------------
-Jika kedepan Nantinya Mod ekin tidak bisa digunakan, selalu cek github ini,..
-akan di update perbaikan script dengan melihat tanggal update di script.
+Jika kedepan nantinya Mod ekin tidak bisa digunakan, selalu cek github ini,..
+akan di update perbaikan script dengan melihat tanggal update pada script.
