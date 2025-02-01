@@ -13,9 +13,6 @@ https://youtu.be/TP0MjWhojZc
 FILE SCRIPT :
 https://raw.githubusercontent.com/hendrik-svm/mod-ekinerja/main/script
 
-VIDEO TUTORIAL CARA PENGGUNAAN:
-https://youtu.be/U41iFdX7lXY
-
 -------------
 ** CATATAN **
 -------------
