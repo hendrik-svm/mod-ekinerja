@@ -1,6 +1,6 @@
 # MOD EKINERJA KOTAWARINGIN BARAT #
 -----------------------------------
-UPDATE : 01 JANUARI 2025
+UPDATE : 1 FEBRUARI 2025
 
 Cara Instalasi:
 1. Centang Develover Mode di Browser
