@@ -3,7 +3,7 @@
 UPDATE : 1 FEBRUARI 2025
 
 Cara Instalasi:
-1. Centang Develover Mode di Browser
+1. Centang Developer Mode di Browser
 2. Install Tampermonkey di browser
 3. Copy semua isi script yang ada di dalam file script, kemudian masukkan kodenya ke dalam extentions atau add on Tampermonkey yang ada di browser
 
