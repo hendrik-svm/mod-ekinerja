@@ -10,7 +10,7 @@ Cara Instalasi:
 VIDEO CARA INSTALL MOD EKINERJA :
 https://youtu.be/TP0MjWhojZc
 
-FILE SCRIPT :
+SCRIPT :
 https://raw.githubusercontent.com/hendrik-svm/mod-ekinerja/main/script
 
 VIDEO TUTORIAL CARA MENGGUNAKAN MOD :
